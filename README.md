@@ -14,7 +14,7 @@ Read things here before you start.
 
 ## Books
 - [Distributed Systems for fun and profit](http://book.mixu.net/distsys/single-page.html) [Free]
-- [Distributed Systems Principles and Paradigms, Andrew Tanenbaum](https://www.distributed-systems.net/index.php/books/distributed-systems-3rd-edition-2017/ds3-sneak-preview/) [Free with registration]
+- [Distributed Systems Principles and Paradigms, Andrew Tanenbaum](https://www.distributed-systems.net/index.php/books/ds3/) [Free with registration]
 - [Scalable Web Architecture and Distributed Systems](http://www.aosabook.org/en/distsys.html) [Free]
 - [Principles of Distributed Systems](http://dcg.ethz.ch/lectures/podc_allstars/lecture/podc.pdf) [Free] [ETH Zurich University]
 - [Making reliable distributed systems in the presence of software errors](http://www.erlang.org/download/armstrong_thesis_2003.pdf), [Free] Joe Amstrong's (Author of Erlang) PhD thesis 
@@ -23,6 +23,7 @@ Read things here before you start.
 - [Distributed Algorithms, Nancy Lynch](https://www.amazon.com/Distributed-Algorithms-Kaufmann-Management-Systems/dp/1558603484) [Amazon Link]
 - [Impossibility Results for Distributed Computing](http://www.morganclaypool.com/doi/abs/10.2200/S00551ED1V01Y201311DCT012) [paywall]
 - [Designing Distributed Systems, Brandon Burns](https://azure.microsoft.com/en-us/resources/designing-distributed-systems/) [Free with registration]
+- [Making Sense of Edge Computing](https://www.manning.com/books/making-sense-of-edge-computing)
 
 ## Papers
 Must read papers on distributed systems. While nearly *all* of Lamport's work should feature here, just adding a few that *must* be read.
@@ -79,6 +80,9 @@ While designing distributed systems are hard enough, testing them is even harder
 - [Software Defined Networking](https://www.coursera.org/course/sdn) , Georgia Tech.
 - [ETH Zurich: Distributed Systems](http://dcg.ethz.ch/lectures/podc_allstars/)
 - [ETH Zurich: Distributed Systems Part 2](http://dcg.ethz.ch/lectures/distsys), covers  Distributed control algorithms, communication models, fault-tolerance among other things. In particular fault tolerance issues (models, consensus, agreement) and replication issues (2PC,3PC, Paxos), which are critical in understanding distributed systems are explained in great detail.
+- [Distributed Systems Course](http://www.distributedsystemscourse.com/), A beginner course on distributed system by Chris Colohan, A google employee who contributed to  SUIF, MapReduce, TCMalloc, Percolator, Caffeine, Borg, Omega, and Piper.
+- [MIT 6.824](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-824-distributed-computer-systems-engineering-spring-2006/), [Youtube-playlist](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB) MIT distributed system lectures, in each video they discuss papers like GFS, Zookeeper, RAFT, Spanner...
+
 
 ## Blogs and other reading links
 - [Amazon Builder's Library](https://aws.amazon.com/builders-library/), a collection of Amazon's learnings on distributed systems
@@ -107,3 +111,4 @@ Other lists like this one
 - [A Distributed Systems Reading List](https://dancres.github.io/Pages/), A collection of material, mostly papers on Distributed Systems Theory as well as seminal industry papers 
 - [Distributed Systems Readings](https://henryr.github.io/distributed-systems-readings/), A comprehensive list of online courses related to distributed systems 
 - [Awesome Distributed Consensus](https://github.com/dgryski/awesome-consensus), Another list of materials on distributed consensus protocols
+- [Distributed Systems Journey](https://github.com/ericdouglas/distributed-systems-journey) - 📚 Roadmap to becoming a distributed systems specialist 🎓
